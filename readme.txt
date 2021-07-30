@@ -15,5 +15,5 @@ for task 2:
 	compile by: javac Issifu2.java
 	run by: java Issifu2 covid_data partial_time_series
 
-Output files will be created in you your current directory.
+Output files will be created in your current directory.
 Enjoy!
